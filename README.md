@@ -30,15 +30,15 @@ A continuación se presentan algunas capturas de pantalla de la interfaz del scr
 
 ### Menú de Negocios
 
-[![imagen1.png](https://i.postimg.cc/Y0xjwzty/imagen1.png)](https://postimg.cc/BPXJTDLx)
+[![negocios1.png](https://i.postimg.cc/C5KjYgh8/negocios1.png)](https://postimg.cc/DJtWdRbf)
 
 ### Ejemplo de Negocio Cerrado
 
-[![imagen3.png](https://i.postimg.cc/J0K7F7Qf/imagen3.png)](https://postimg.cc/8fJVJS94)
+[![Negocio3.png](https://i.postimg.cc/WbhMHTfL/Negocio3.png)](https://postimg.cc/6yx27JXY)
 
 ### Ejemplo de Negocio Abierto
 
-[![imagen2.png](https://i.postimg.cc/VLGLB6vM/imagen2.png)](https://postimg.cc/bsnhqqQN)
+[![Negocios2.png](https://i.postimg.cc/cC5fLbCb/Negocios2.png)](https://postimg.cc/q6yNmQ8s)
 
 ---
 
