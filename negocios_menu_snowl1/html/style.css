@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.9);
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -18,7 +18,7 @@ body {
 }
 
 #menu {
-  background-color: #2c3e50;
+  background-color: #121212;
   border-radius: 8px;
   width: 400px;
   padding: 20px;
@@ -38,7 +38,7 @@ body {
 }
 
 #menu h2 {
-  color: #ecf0f1;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -56,7 +56,6 @@ body {
   cursor: pointer;
 }
 
-
 #business-list {
   list-style: none;
   padding: 0;
@@ -67,8 +66,8 @@ body {
 #business-list li {
   display: flex;
   align-items: center;
-  background-color: #34495e;
-  color: #ecf0f1; 
+  background-color: #1e1e1e;
+  color: #ffffff; 
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -86,11 +85,11 @@ body {
 
 #business-list li {
   padding: 10px; 
-  color: #ecf0f1;
+  color: #ffffff;
 }
 
 #business-list li:hover {
-  background-color: #1abc9c; 
+  background-color: #2c2c2c; 
 }
 
 .status-indicator {
@@ -166,25 +165,25 @@ body {
 
 ::-webkit-scrollbar {
   width: 8px; 
-  background-color: #0f1a24; 
+  background-color: #0a0a0a; 
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #ffffff; 
+  background-color: #333333; 
   border-radius: 10px; 
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #cecece; 
+  background-color: #444444; 
 }
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #cecece #f1f1f1; 
+  scrollbar-color: #333333 #0a0a0a; 
 }
 
 *::-webkit-scrollbar-thumb:hover {
-  background-color: #cecece; 
+  background-color: #444444; 
 }
 
